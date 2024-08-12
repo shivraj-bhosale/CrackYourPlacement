@@ -42,7 +42,7 @@ public:
         int a= st2.top();
         st2.pop();
         return a;
-        
+           
     }
     
     int peek() {
