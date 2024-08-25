@@ -68,6 +68,8 @@ class Solution{
 //so i stored min max value of left side and then passed previous min/max value with the right side 
 //while comparing i checked max value of left with root and min value of right with root
 
+// solution 2:-
+// return pair<int,pair<int,int>>
 
 void invictus(){
 
